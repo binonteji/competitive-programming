@@ -1,2 +1,5 @@
 # competitive-programming
-Problem Solving 
+
+
+Repo is about solving competitive problems
+
